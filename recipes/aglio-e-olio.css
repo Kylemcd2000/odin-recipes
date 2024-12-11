@@ -8,11 +8,9 @@ body {
 .heading {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.432);
-    border-radius: 25px;
     margin-left: 35%;
-    margin-right: 35%;
-    
-    
+    margin-right: 35%;    
+    border-radius: 15px;
 }
 
 #image {
